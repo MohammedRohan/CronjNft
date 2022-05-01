@@ -1,11 +1,8 @@
 import React from "react";
-import Sidebar from "./Sidebar";
+import Sendnotification from "./Sendnotification";
 
 function App() {
-  return (
-    <Sidebar />
-  )
-    
+  return <Sendnotification />;
 }
 
 export default App;
