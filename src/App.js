@@ -1,11 +1,8 @@
-import React from "react";
-import Sidebar from "./Sidebar";
+import "./App.css";
+import Categorylist from "./Categorylist";
 
 function App() {
-  return (
-    <Sidebar />
-  )
-    
+  return <Categorylist />;
 }
 
 export default App;
