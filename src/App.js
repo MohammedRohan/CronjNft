@@ -1,8 +1,8 @@
-import "./App.css";
-import Categorylist from "./Categorylist";
-
 function App() {
-  return <Categorylist />;
+  return (
+    'hello'
+    
+  );
 }
 
 export default App;
